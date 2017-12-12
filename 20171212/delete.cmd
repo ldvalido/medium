@@ -1,0 +1,1 @@
+powershell .\delete_iis.ps1
